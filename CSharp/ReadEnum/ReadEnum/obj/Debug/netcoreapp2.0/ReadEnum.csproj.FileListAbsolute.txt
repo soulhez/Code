@@ -1,0 +1,11 @@
+E:\Code\CSharp\ReadEnum\ReadEnum\bin\Debug\netcoreapp2.0\ReadEnum.deps.json
+E:\Code\CSharp\ReadEnum\ReadEnum\bin\Debug\netcoreapp2.0\ReadEnum.runtimeconfig.json
+E:\Code\CSharp\ReadEnum\ReadEnum\bin\Debug\netcoreapp2.0\ReadEnum.runtimeconfig.dev.json
+E:\Code\CSharp\ReadEnum\ReadEnum\bin\Debug\netcoreapp2.0\ReadEnum.dll
+E:\Code\CSharp\ReadEnum\ReadEnum\bin\Debug\netcoreapp2.0\ReadEnum.pdb
+E:\Code\CSharp\ReadEnum\ReadEnum\obj\Debug\netcoreapp2.0\ReadEnum.csprojResolveAssemblyReference.cache
+E:\Code\CSharp\ReadEnum\ReadEnum\obj\Debug\netcoreapp2.0\ReadEnum.csproj.CoreCompileInputs.cache
+E:\Code\CSharp\ReadEnum\ReadEnum\obj\Debug\netcoreapp2.0\ReadEnum.AssemblyInfoInputs.cache
+E:\Code\CSharp\ReadEnum\ReadEnum\obj\Debug\netcoreapp2.0\ReadEnum.AssemblyInfo.cs
+E:\Code\CSharp\ReadEnum\ReadEnum\obj\Debug\netcoreapp2.0\ReadEnum.dll
+E:\Code\CSharp\ReadEnum\ReadEnum\obj\Debug\netcoreapp2.0\ReadEnum.pdb
